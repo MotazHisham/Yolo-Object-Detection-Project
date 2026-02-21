@@ -1,0 +1,14 @@
+names:
+- Mug
+- Person
+- Shoes
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: object-detection-fnkym
+  url: https://universe.roboflow.com/image-classification-using-yolo/object-detection-fnkym/dataset/2
+  version: 2
+  workspace: image-classification-using-yolo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
