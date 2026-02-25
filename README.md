@@ -142,7 +142,7 @@ YOLO (**You Only Look Once**) is a **single-stage detector** that:
 
 ## 📌 <span style="color:#ff4b2b;">Future Improvements</span>
 
-- 🎥 Real-time webcam detection  
+- 🎥 Improve Real-time webcam detection  
 - 🌐 Flask API deployment  
 - ⚖️ YOLOv8n vs YOLOv8s comparison  
 - 🔬 Advanced hyperparameter tuning  
