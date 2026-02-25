@@ -58,6 +58,7 @@ yolo-object-detection/
 ├── 📁 data/
 │   ├── train/
 │   ├── valid/
+|   ├── test/
 │   └── data.yaml
 │
 ├── 📁 runs/
